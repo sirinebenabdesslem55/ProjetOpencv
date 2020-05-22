@@ -1,0 +1,3 @@
+﻿  tested.cpp
+e:\testproject\testproject\tested.cpp(157): warning C4267: 'return' : conversion de 'size_t' en 'int', perte possible de données
+  testProject.vcxproj -> E:\testProject\x64\Debug\testProject.exe
